@@ -6,7 +6,33 @@
 
 ごはん - meal (gohan)
 
+[non-keigo]
 Me:  ごはん食べる？
 Bro: え？
 Me:  ごはん食べるの？
-Bro: たべる
+Bro: たべる。
+
+[keigo]
+- ごはん食べます？
+- え？
+- ごはん食べますか？
+- たべます。
+
+[non-keigo]
+恥ずかしいね。- it's embarassing (はずかしい　ね - means expected to agree)
+
+[keigo]
+アンドレイです。- I'm Andrey
+
+[non-keigo]
+アンドレイだよ。- I'm Andrey (usually with kids)
+or just
+アンドレイ。
+
+
+またね - see you
+
+
+
+
+
