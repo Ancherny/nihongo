@@ -19,7 +19,7 @@ Bro: たべる。
 - たべます。
 
 [non-keigo]
-恥ずかしいね。- it's embarassing (はずかしい　ね - means expected to agree)
+恥ずかしいね。- it's embarrassing (はずかしい　ね - means expected to agree)
 
 [keigo]
 アンドレイです。- I'm Andrey
